@@ -1,0 +1,54 @@
+﻿@model Proyecto.Web.Data.Entities.User
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h2>Detalles Usuario</h2>
+
+<div>
+    
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Address)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Address)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Phone)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Phone)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.NickName)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.NickName)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Password)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Password)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.StatusLog)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.StatusLog)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.Id" >Editar</a> |
+    <a asp-action="Index" >Volver a Lista</a>
+</div>

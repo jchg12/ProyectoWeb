@@ -1,0 +1,9 @@
+E:\ProyectoWeb\SolucionProyecto\Proyecto\bin\Debug\netcoreapp2.1\Proyecto.deps.json
+E:\ProyectoWeb\SolucionProyecto\Proyecto\bin\Debug\netcoreapp2.1\Proyecto.dll
+E:\ProyectoWeb\SolucionProyecto\Proyecto\bin\Debug\netcoreapp2.1\Proyecto.pdb
+E:\ProyectoWeb\SolucionProyecto\Proyecto\obj\Debug\netcoreapp2.1\Proyecto.csprojAssemblyReference.cache
+E:\ProyectoWeb\SolucionProyecto\Proyecto\obj\Debug\netcoreapp2.1\Proyecto.AssemblyInfoInputs.cache
+E:\ProyectoWeb\SolucionProyecto\Proyecto\obj\Debug\netcoreapp2.1\Proyecto.AssemblyInfo.cs
+E:\ProyectoWeb\SolucionProyecto\Proyecto\obj\Debug\netcoreapp2.1\Proyecto.csproj.CoreCompileInputs.cache
+E:\ProyectoWeb\SolucionProyecto\Proyecto\obj\Debug\netcoreapp2.1\Proyecto.dll
+E:\ProyectoWeb\SolucionProyecto\Proyecto\obj\Debug\netcoreapp2.1\Proyecto.pdb
